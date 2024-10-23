@@ -17,6 +17,7 @@ Al ingresar 7, se sale del menú y finaliza el programa
 
 ## Herramientas utilizadas
 - IDE: IntelliJ IDEA
+- Versión de Java: 17.0.12
 - Librería: Gson 2.10.1
 - API: https://www.exchangerate-api.com/
 
