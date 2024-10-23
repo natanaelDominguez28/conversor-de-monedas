@@ -5,6 +5,9 @@ Desafío Conversor de Monedas del curso "Java Orientado a Objetos G7 - ONE" Orac
 Este proyecto te permite realizar la conversión de monedas internacionales consumiendo una API.
 Presenta un menú de 7 opciones, donde cada opción realiza una conversión diferente, la opción 7 te permite salir del menú.
 
+![alt text](image.png)
+![alt text](image.png)
+
 ## Herramientas utilizadas
 - IDE: IntelliJ IDEA
 - Librería: Gson 2.10.1
