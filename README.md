@@ -7,6 +7,10 @@ Presenta un menú de 7 opciones, donde cada opción realiza una conversión dife
 
 ![alt text](image.png)
 
+Al ingresar una opción que no sea la 7, se le pedirá ingresar la cantidad a convertir y al dar enter se mostrará en pantalla el mensaje con el total de la conversión
+
+![alt text](opcion1.png)
+
 ## Herramientas utilizadas
 - IDE: IntelliJ IDEA
 - Librería: Gson 2.10.1
