@@ -1,5 +1,5 @@
 # conversor-de-monedas
-Desafío Conversor de Monedas del curso "Java Orientado a Objetos G7 - ONE" Oracle Next Education en conjunto con Alura Latam
+Desafío com.aluracursos.api.Conversor de Monedas del curso "Java Orientado a Objetos G7 - ONE" Oracle Next Education en conjunto con Alura Latam
 
 ## Descripción
 Este proyecto te permite realizar la conversión de monedas internacionales consumiendo una API.
